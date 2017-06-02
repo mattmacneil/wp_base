@@ -16,6 +16,7 @@
 	  remove_filter( 'wp_mail', 'wp_staticize_emoji_for_email' );
 	  remove_filter( 'the_content_feed', 'wp_staticize_emoji' );
 	  remove_filter( 'comment_text_rss', 'wp_staticize_emoji' );
+	  add_filter( 'emoji_svg_url', '__return_false' );
 	  add_filter( 'tiny_mce_plugins', 'disable_emojicons_tinymce' );
 	}
 
