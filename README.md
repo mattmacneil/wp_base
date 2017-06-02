@@ -1,5 +1,7 @@
 # wp_base
 
+<h2>A stripped down custom theme for building new WP projects.</h2>
+
 <ol>
 	<li>Sequel Pro DB Install (root / root)</li>
 		<ul>
