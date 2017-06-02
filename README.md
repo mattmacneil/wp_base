@@ -19,4 +19,9 @@
 		<ul>
 			<li>Dashboard > Updates</li>
 		</ul>
+	<li>Activate Theme</li>
+	<li>Go to Settings > General and make appropriate changes</li>
+	<li>Go to Settings > Permalinks and change to Post Name</li>
+	<li>Go to Users > Your Profile and uncheck Show Toolbar option</li>
+	<li>Go to a post, select Screen Options, and check Custom Fields</li>
 </ol>
