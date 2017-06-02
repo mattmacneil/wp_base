@@ -25,4 +25,6 @@
 	<li>Go to Users > Your Profile and uncheck Show Toolbar option</li>
 	<li>Go to a post, select Screen Options, and check Custom Fields</li>
 	<li>Change title and description in style.scss</li>
+	<li>Install plugin "disable emojis"</li>
+	<li>npm install and grunt in home directory.</li> 
 </ol>
