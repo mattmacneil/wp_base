@@ -1,7 +1,7 @@
 	
 		<div style="width: 100%; height: 100px;"></div>
 
-		this is the footer
+		footer.php
 
 		<?php wp_footer(); ?> 
 
