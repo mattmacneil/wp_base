@@ -11,8 +11,9 @@
 		<ul>
 			<li>Database Name / User / Pass</li>
 			<li>Table Prefix</li>
-			<li>Unique Phrase: <a href="https://api.wordpress.org/secret-key/1.1/salt/" target="_blank">generated here &rarr;</a>
+			<li>Unique Phrase: <a href="https://api.wordpress.org/secret-key/1.1/salt/" target="_blank">generated here &rarr;</a></li>
 		</ul>
+	<li>Rename wp-config-sample.php to wp-config.php</li>
 	<li>WP Install</li>
 	<li>Check for WP update</li>
 		<ul>
