@@ -32,7 +32,7 @@ define('DB_PASSWORD', 'root');
 define('DB_HOST', 'localhost');
 
 /** Database Charset to use in creating database tables. */
-define('DB_CHARSET', 'utf8mb4');
+define('DB_CHARSET', 'utf8');
 
 /** The Database Collate type. Don't change this if in doubt. */
 define('DB_COLLATE', '');
@@ -46,14 +46,14 @@ define('DB_COLLATE', '');
  *
  * @since 2.6.0
  */
-define('AUTH_KEY',         'NWIT?).*6S4Y@%.3rS<Cix_ZEB_s+H(60?:G{McbLR2V)-8WHqV;d2/0}c3n?Z:S');
-define('SECURE_AUTH_KEY',  'W=9mUv;ura-[W@aaS-bh]1C3bZTsx0gv+bbx)r[g(oVKPIyjt|1TIC1y_W`es9gZ');
-define('LOGGED_IN_KEY',    '%i=OO0Y#:Ot 5V(jw{|aFS_dTQDf,~KEUhz8I3| z3<qwO8](Y0t^|T9U*wV}9P0');
-define('NONCE_KEY',        '$K&%6Vii|<q>_N-yg:?o~sn?tC0.m)RmXCm{KvN@/B)iu #PDKPX?$((6k!RM%lD');
-define('AUTH_SALT',        '>~e5]0MX)n0~a!}&X9;&o?HB[|_;AXqT#%3^-J$#1?SHUh#I=w)< PG#&A$!Qkxu');
-define('SECURE_AUTH_SALT', 'S_DG7b[gZmkXdP4dc/yj;7#L-QcAV|f_Y;<u#KEJ}+DOL )4*mq3vJ8oYUw!uf:U');
-define('LOGGED_IN_SALT',   '}L+rK}/~oEjugIIgw<E:X6V%PQn5jlp*,mF<Ak$Rl<HUh40+ySIkx <4~5T$!s%.');
-define('NONCE_SALT',       'qh^1,kN)oaHf3gk|B`YQU~QIV7*+xVI_MFaa+jPC&HK&^$3[86N>LaEA5@t=fb6s');
+define('AUTH_KEY',         'Pv|SB<2nc+i=Gx6_:qCiKX/#D7 *l!ZGB]!,!<VFK}z)*kY@|C*A2+UVVEdQ!e?>');
+define('SECURE_AUTH_KEY',  'l+uf`*NhN-Srx_|<=w810Q&l?(,$JnXl|si{X`&2Q4&doEXVrw 39x^<hAL40$pW');
+define('LOGGED_IN_KEY',    '(x,q:nvy{XNk5-UT<pq*:^^74?v%`*+v$>T[]}];8(+-)lH;>&r+=Hhwnm?}Ot>8');
+define('NONCE_KEY',        '}d#qFUVpd)UlcEi8g*Fo#DA1I@I!_Zi-_HE7x]Dy?+Fb6-3^-h3A^j]Pm`j_&<lt');
+define('AUTH_SALT',        'fulgCz&>l.* 8?+X7OAY2.|_3)7z9qD+tlDr8HHe>,{2@AcwmCEW1f*`Ud>R}+ZZ');
+define('SECURE_AUTH_SALT', 'Ce$ymN<q=Sa9jY:{N7P`M/_zl {s@nX&G[;:9ha7H`==,.7W|G2W(n7)`+HfX#<(');
+define('LOGGED_IN_SALT',   ';@v779y{2#BNsbu_*W&y,8WQ4(TNPj%yPb{-p7n`%+Iu {88dB92w=L7.bx/`%Rd');
+define('NONCE_SALT',       'J}<hOu<b<VyY+EP+OaQKbL:,kvgF.#M|YJ-TqDw3WNPC}>kxvPPY#-w+jt,%o,GM');
 
 /**#@-*/
 
@@ -63,7 +63,7 @@ define('NONCE_SALT',       'qh^1,kN)oaHf3gk|B`YQU~QIV7*+xVI_MFaa+jPC&HK&^$3[86N>
  * You can have multiple installations in one database if you give each
  * a unique prefix. Only numbers, letters, and underscores please!
  */
-$table_prefix  = 'wp_';
+$table_prefix  = 'mm69_';
 
 /**
  * For developers: WordPress debugging mode.
