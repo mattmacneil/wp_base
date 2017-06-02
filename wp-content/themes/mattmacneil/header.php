@@ -10,7 +10,7 @@
     <link rel="icon" href="<?php echo get_bloginfo('template_directory'); ?>/assets/images/favicon.png" type="image/x-icon">
 
     <meta name="author" content="matt@mattmacneil.com">
-    <meta name="description" content="  DESCRIPTION  ">
+    <meta name="description" content="<?php echo get_bloginfo(); ?>">
     <meta name="keywords" content="  KEYWORDS  ">
     <meta name="robots" content="index, follow">
 
@@ -22,4 +22,4 @@
   </head>
   <body>
 
-    <!--<?php /* get_template_part( 'template-parts/nav'); */ ?> -->
+    <?php /* get_template_part( 'template-parts/nav'); */ ?>
