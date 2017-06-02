@@ -24,4 +24,5 @@
 	<li>Go to Settings > Permalinks and change to Post Name</li>
 	<li>Go to Users > Your Profile and uncheck Show Toolbar option</li>
 	<li>Go to a post, select Screen Options, and check Custom Fields</li>
+	<li>Change title and description in style.scss</li>
 </ol>
