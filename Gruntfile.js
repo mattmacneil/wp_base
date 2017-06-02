@@ -10,7 +10,7 @@ module.exports = function (grunt) {
         },
         files: [{
           expand: true,
-          cwd: 'wp-content/themes/mattmacneil/assets/css/sass',
+          cwd: 'wp-content/themes/mattmacneil/assets/css',
           src: ['**/*.scss'],
           dest: 'wp-content/themes/mattmacneil/',
           ext: '.css'
@@ -23,7 +23,7 @@ module.exports = function (grunt) {
 
         map: {
             inline: false,
-            annotation: 'wp-content/themes/mattmacneil/assets/css/sass/maps'
+            annotation: 'wp-content/themes/mattmacneil/assets/css/maps'
         },
 
         processors: [
